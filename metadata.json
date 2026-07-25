@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Recovery Platform",
+  "description": "Zero-typing crisis intervention and RAG-grounded recovery support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
